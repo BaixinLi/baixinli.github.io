@@ -5,7 +5,7 @@ source "https://rubygems.org"
 #
 #     bundle exec jekyll serve
 #     
-#     $ git config --global user.name "BaixinLi
+#     $ git config --global user.name "BaixinLi"
 #     $ git config --global user.email ""
 #
 # This will help ensure the proper Jekyll version is running.
