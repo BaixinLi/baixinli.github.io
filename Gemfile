@@ -4,6 +4,9 @@ source "https://rubygems.org"
 # file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
 #
 #     bundle exec jekyll serve
+#     
+#     $ git config --global user.name ""
+#     $ git config --global user.email ""
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
