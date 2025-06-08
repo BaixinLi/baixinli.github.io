@@ -16,12 +16,13 @@ This is the homepage of Baixin, powered by GitHub Pages.
 <div class="about-section">
     <img src="https://avatars.githubusercontent.com/u/201954233?s=96&v=4" alt="profile" class="profile-img">
     <div class="profile-details">
-        Baixin Li <br>
+        <b> Baixin Li </b> <br>
         PhD Candidate <br>
         Graduate School of Economics, Waseda University<br>
-        Input-Output Analysis, Waste Recycling ♻️, Prefectural Input-Output Tables
     </div>
 </div>
+
+**Interests:** Input-Output Analysis, Waste Recycling ♻️, Prefectural Input-Output Tables
 
 ## News 💬
 Starting from April 2025, I will serve as a **Research Assistant** at the Faculty of Political Science and Economics, Waseda University.
