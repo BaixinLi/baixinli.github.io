@@ -6,7 +6,7 @@ title: Welcome!
 ---
 
 ## Welcome! 👋 
-This is the homepage of Baixin, powered by GitHub Pages.   
+This is the homepage of Baixin.   
 > [日本語ページ](homepages/jp.md); [中文页面](homepages/chinese.md)
 
 ## About Me 👨‍🎓
