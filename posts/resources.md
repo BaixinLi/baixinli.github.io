@@ -2,7 +2,8 @@
 title: Resources
 ---
 
-# Resources
+# Resources  
+This page will be continuously updated with new content.
 
 - [Emojipedia](https://emojipedia.org/)  
 👋 🚀 👨‍🎓  🎓  ♻️ 🗺️ 
