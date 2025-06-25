@@ -12,6 +12,8 @@ I’m Baixin Li, a **PhD candidate** at **Waseda University**’s Graduate Schoo
 
 My research focuses on input-output analysis, waste recycling, and recently, estimating prefectural input-output tables in Japan.
 
+## News 💬
+Starting from April 2025, I will serve as a **Research Assistant** at the Faculty of Political Science and Economics, Waseda University.
 
 ## About Me
 

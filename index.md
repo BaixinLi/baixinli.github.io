@@ -6,8 +6,7 @@ title: Welcome!
 ---
 
 ## Welcome! 👋 
-This is the homepage of Baixin.   
-> [日本語ページ](homepages/jp.md); [中文页面](homepages/chinese.md)
+> Japanese 日本語ページ [ここをクリック](homepages/jp.md); Chinese 中文页面 [点击这里](homepages/chinese.md)
 
 ## About Me 👨‍🎓
 
@@ -23,9 +22,6 @@ This is the homepage of Baixin.
 </div>
 
 **Interests:** Input-Output Analysis, Waste Recycling ♻️, Prefectural Input-Output Tables
-
-## News 💬
-Starting from April 2025, I will serve as a **Research Assistant** at the Faculty of Political Science and Economics, Waseda University.
 
 
 ## Publications 📚 

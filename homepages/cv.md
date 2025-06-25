@@ -19,7 +19,7 @@ Check out my full CV below:  [Download CV](/files/CV.pdf)
 - Stata
 - Python
 
-# Languages
+## Languages
 * Chinese (Native)
 * Japanese
 * English
