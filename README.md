@@ -45,3 +45,8 @@ Gemfile 和 _config.yml 是 Jekyll 配置的重要文件。
 Gemfile 记录了 Jekyll，Ruby 版本，Github Pages 等信息。  
 _config.yml 记录了影响整个 Blog 的内容，比如作者名，URL，网页使用的主题（themes）等内容。  
 .gitignore 中指示了不需要同步到 Github 的文件和文件夹。  
+
+## Resources
+- [RealFaviconGenerator](https://realfavicongenerator.net/)
+- [Emojipedia](https://emojipedia.org/)  
+
