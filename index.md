@@ -45,8 +45,8 @@ Baixin LI, Qinxuan LI, Yiyuan XING, Yasushi KONDO (2023). *Journal of Life Cycle
 
 ## Recent Posts 📝
 
-- [Handbook of Writing Thiesis](posts/2025-04-12-Handbook of Writing Thiesis.md)
-- [论文写作手册](posts/2025-04-12-论文写作手册.md)
+- [Handbook of Writing Thiesis (English Version 英文版)](posts/2025-04-12-Handbook of Writing Thiesis.md)
+- [论文写作手册（中文版 Chinese version）](posts/2025-04-12-论文写作手册.md)
 - [Resources](posts/resources.md)
 
 ## CV　📜
