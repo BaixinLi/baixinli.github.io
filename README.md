@@ -1,5 +1,19 @@
-# baixinli.github.io
-This is a homepage of Baixin Li, powered by GitHub Pages.   
+# My Homepage
+This is an academic homepage of Baixin Li, powered by GitHub Pages.   
+Homepage: [baixinli.github.io](baixinli.github.io)
+
+
+## 简介
+我正在尝试制作一个尽可能简单的个人学术主页。  
+我称之为 An academic homepage that is as simple as possible.  
+我希望将其简写为简写为 Homepage-ASAP。中文是 ASAP 主页。  
+
+我希望这个网站在满足下面的条件的基础上，尽可能减少代码：  
+- 可以显示数学公式
+- 可以包含多层网页
+- 更新内容操作简单
+
+如果你有更ASAP的方法，欢迎分享。  
 
 ## 网站风格样式
 这个网站基于 Jekyll 构造，但是并未使用任何 Jekyll 主题，比如常见的 Minima 和 Minimal。  
