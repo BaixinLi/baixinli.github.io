@@ -1,6 +1,6 @@
 # My Homepage
 This is an academic homepage of Baixin Li, powered by GitHub Pages.   
-Homepage: [baixinli.github.io](baixinli.github.io)
+Homepage: [baixinli.github.io](https://baixinli.github.io/)
 
 
 ## 简介
