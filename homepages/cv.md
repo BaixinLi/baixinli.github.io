@@ -6,6 +6,8 @@ title: CV
 
 Check out my full CV below:  [Download CV](/files/CV.pdf)
 
+[CV in Google Drive](https://drive.google.com/file/d/19LUTnWpMkG-aRvau3eZQdDQUqWOUdcnn/view?usp=drive_link)
+
 ## Education
 * 2020.04 ~    **Ph.D** in Graduate School of Economics, Waseda University, Japan
 * 2020.04 ~ 2022.03  **M.S.** in Graduate School of Economics, Waseda University, Japan
