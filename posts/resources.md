@@ -24,3 +24,6 @@ This page will be continuously updated with new content.
 
 - [Github Docs](https://docs.github.com/en) （Include Chinese 中文 and Japanese 日本語）
 
+- [Homebrew](https://brew.sh/)
+
+- [Homebrew Formulae](https://formulae.brew.sh/formula/)
