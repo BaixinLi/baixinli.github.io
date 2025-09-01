@@ -5,18 +5,21 @@ title: Welcome!
 # layout: home
 ---
 
-## Welcome! ようこそ！　欢迎！
-> Japanese 日本語ページ [ここをクリック](homepages/jp.md); 
-> Chinese 中文页面 [点击这里](homepages/chinese.md)
+## Welcome! 
+> Japanese 日本語ページ [ここをクリック](homepages/jp.md); Chinese 中文页面 [点击这里](homepages/chinese.md)
 
 ## About Me 
 
-> 简短的个人简介
-> 最新动态 
-> 核心研究关键词
-
 > Click [here](homepages/about.md) for details.    
 
+<div class="about-section">
+    <img src="https://avatars.githubusercontent.com/u/201954233?s=96&v=4" alt="profile" class="profile-img">
+    <div class="profile-details">
+        <b> Baixin Li </b> <br>
+        PhD Candidate; Research Assistant <br>
+        Graduate School of Economics, Waseda University<br>
+    </div>
+</div>
 
 **Interests:** Input-Output Analysis; Waste Recycling; Plastic Waste; WIO; Circular Economy; Environmental Economics
 
@@ -45,9 +48,9 @@ Baixin LI, Qinxuan LI, Yiyuan XING, Yasushi KONDO (2023). *Journal of Life Cycle
 
 ## Recent Posts
 
-- [Handbook of Writing Thiesis (English Version 英文版)](posts/2025-04-12-Handbook of Writing Thiesis.md)
-- [论文写作手册（中文版 Chinese version）](posts/2025-04-12-论文写作手册.md)
-- [Resources (Live Updates)](posts/resources.md)
+- [Handbook of Writing Thiesis (English Version 英文版)](posts/2025-04-12-Handbook of Writing Thiesis)
+- [论文写作手册（中文版 Chinese version）](posts/2025-04-12-论文写作手册)
+- [Resources (Live Updates)](posts/resources)
 
 ## CV　
 > Click [here](homepages/cv.md) for details.    

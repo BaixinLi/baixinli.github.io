@@ -116,7 +116,7 @@
             /* 与 header 高度一致 */
             display: flex;
             align-items: center;
-            gap: 12px;
+            gap: 6px;
             background: none;
             /* rgba(255,255,255,0.95); /* 半透明背景，防止内容遮挡 */
             box-shadow: none;
@@ -128,7 +128,8 @@
             color: #24292e;
             text-decoration: none;
             font-weight: 500;
-            font-size: 1.1em; /*24px; /* 1.6em;*/
+            font-size: 1.1em;
+            /*24px; /* 1.6em;*/
             padding: 6px 12px;
             border-radius: 4px;
             transition: background 0.2s;
@@ -309,6 +310,14 @@
                 gap: 0;
             }
 
+            .header-avatar {
+                width: 18px;
+                /* 缩小头像的宽度 */
+                height: 18px;
+                /* 缩小头像的高度 */
+                margin-right: 0px;
+            }
+
             .site-title {
                 font-size: 1.1em;
             }
@@ -327,6 +336,13 @@
         @media (max-width: 400px) {
             .header-inner {
                 padding: 0 4px;
+            }
+
+            .header-avatar {
+                width: 15px;
+                /* 进一步缩小 */
+                height: 15px;
+                margin-right: 0px;
             }
 
             .site-title {
@@ -373,10 +389,10 @@
             <nav class="site-nav">
                 <a href="{{ site.baseurl }}/">Home</a>
                 <a href="{{ site.baseurl }}/about">About</a>
-                <a href="{{ site.baseurl }}/homepages/research">Research</a>
-                <a href="{{ site.baseurl }}/homepages/posts">Posts</a>
-                <a href="{{ site.baseurl }}/homepages/cv">CV</a>
-                
+                <a href="{{ site.baseurl }}/research">Research</a>
+                <a href="{{ site.baseurl }}/blog">Blog</a>
+                <a href="{{ site.baseurl }}/cv">CV</a>
+
                 <!-- 可根据需要添加更多链接 -->
             </nav>
         </div>

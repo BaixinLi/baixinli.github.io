@@ -2,7 +2,7 @@
 layout: default
 title: The Handbook of Writing Thesis (English Version 英文版)
 date: 2025-04-12 02:32 +/-TTTT 0000
-permalink: /posts/2025/04/blog-post-1/
+# permalink: /posts/2025/04/blog-post-1/
 tags: [Thesis]     # TAG names should always be lowercase
 math: true
 ---
