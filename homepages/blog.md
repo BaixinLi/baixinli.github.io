@@ -1,5 +1,5 @@
 ---
-title: Recent Posts
+title: Blog
 permalink: /blog/
 ---
 
