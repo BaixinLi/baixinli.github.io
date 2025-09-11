@@ -5,7 +5,8 @@ title: Resources
 # Resources  
 This page will be continuously updated with new content.
 
-- [Emojipedia](https://emojipedia.org/)  
+- [Emojipedia](https://emojipedia.org/):   
+  emoji 词典。让文章更生动，但是 emoji 加多了会充满 AI 味。Tradeoff 无处不在的又一强有力的证据。  
 👋 🚀 👨‍🎓  🎓  ♻️ 🗺️ 
 📊 📚 📃 🔍 
 🔗
@@ -14,16 +15,28 @@ This page will be continuously updated with new content.
 🇯🇵 🇨🇳 🇺🇸 🇬🇧 
 ✅ ❎ 💡
 
-- [Overleaf](https://www.overleaf.com/)
+- [Overleaf](https://www.overleaf.com/):   
+  Latex 官网都在推荐的在线编辑器之一。主要作用是套模板。在线好，在线内容丢不了。
 
-- [Google Colaboratory](https://colab.google)
+- [Google Colaboratory](https://colab.google):   
+  用过一次的在线 Jupyter Notebook 文件编辑器。只需要一个账号和浏览器，就能直接写 `.ipynb` 格式的文件。
+  在线好，不用本地环境也能跑。
 
-- [LTWA](https://www.issn.org/services/online-services/access-to-the-ltwa/)
+- [LTWA](https://www.issn.org/services/online-services/access-to-the-ltwa/):   
+  各种英文单词的标准缩写。通过缩写英文单词来节约参考文献长度从而节约用纸面积。
+  节约好，节约就是环保。
 
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code](https://code.visualstudio.com/):   
+  代码编辑器。
+  好就是轻，轻就是好！
 
-- [Github Docs](https://docs.github.com/en) （Include Chinese 中文 and Japanese 日本語）
+- [Github Docs](https://docs.github.com/en)：  
+  Github 官方使用说明书。（Include Chinese 中文 and Japanese 日本語）.
 
-- [Homebrew](https://brew.sh/)
+- [Homebrew](https://brew.sh/):    
+  Mac 上的程序和包管理工具。
+  Homebrew 好，Python 各版本之间互相不干扰。   
+  需要注意，可能会跟 Anaconda 有 PATH 上的冲突。
 
-- [Homebrew Formulae](https://formulae.brew.sh/formula/)
+- [Homebrew Formulae](https://formulae.brew.sh/formula/):    
+  找找有没有 Homebrew 版的程序。
