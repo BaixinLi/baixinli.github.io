@@ -5,8 +5,24 @@ title: Resources
 # Resources  
 This page will be continuously updated with new content.
 
+> ⚠️ 停止研究工具，开始数据分析。
+
+## Read & Learn
+- [Journal of Industrial Ecology](https://onlinelibrary.wiley.com/journal/15309290)
+
+- [Economic Systems Research](https://www.tandfonline.com/journals/cesr20)
+
+- [Environmental Science & Technology](https://pubs.acs.org/journal/esthag)
+
+- [Resources, Conservation and Recycling](https://www.sciencedirect.com/journal/resources-conservation-and-recycling)
+
+- [Journal of Economic Structures](https://journalofeconomicstructures.springeropen.com/)
+
+- [Scimago Journal & Country Rank](https://www.scimagojr.com/)
+
 ## Analyze & Explore
-- [MATLAB online course](https://matlabacademy.mathworks.com/jp/?page=1&sort=featured&s_tid=nav_learn_mlac)
+- [MATLAB online course](https://matlabacademy.mathworks.com/jp/?page=1&sort=featured&s_tid=nav_learn_mlac)   
+  MATLAB = Matrix Laboratory. 非常适合投入产出分析。
 
 - [Posit](https://posit.co/)
   
@@ -70,3 +86,11 @@ This page will be continuously updated with new content.
   找找有没有 Homebrew 版的程序。
 
 
+## Career & Job
+- [JREC-IN Portal](https://jrecin.jst.go.jp/seek/SeekTop)
+
+- [JGRAD](https://jgrad.nistep.go.jp/)
+
+---
+
+> Last updated: 2025/09/16
