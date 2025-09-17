@@ -26,9 +26,11 @@ Graduate School of Economics, Waseda University
 
 
 ## Contact 
-**E-mail:** libaixin\[at\]akane.waseda.jp  
+**E-mail:** libaixin\[at\]akane.waseda.jp   
+**Github:** [https://github.com/BaixinLi](https://github.com/BaixinLi)   
+**Google Scholar:** [https://scholar.google.com/citations?hl=en&user=scd1RncAAAAJ](https://scholar.google.com/citations?hl=en&user=scd1RncAAAAJ)   
 **ResearchGate:** [https://www.researchgate.net/profile/Baixin-Li-2](https://www.researchgate.net/profile/Baixin-Li-2)  
-**Github:** [https://github.com/BaixinLi](https://github.com/BaixinLi)
+
 
 
 
