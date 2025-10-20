@@ -4,7 +4,7 @@ title: About Me
 permalink: /about/
 ---
 
-## Hi!
+## Hi!　ようこそ！  欢迎！
 
 ![profile](https://i1.rgstatic.net/ii/profile.image/11431281121890216-1677120025800_Q128/Baixin-Li-2.jpg)
 

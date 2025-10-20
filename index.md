@@ -10,9 +10,8 @@ Welcome to my homepage. I'm glad you're here.
 
 ## About Me 
 **Baixin Li**   
-PhD Candidate; Research Assistant   
-Graduate School of Economics, Waseda University
-
+PhD Candidate, Graduate School of Economics, Waseda University    
+Research Assistant, Faculty of Political Science and Economics, Waseda University
 
 **Interests:** Input-Output Analysis; Waste Recycling; Plastic Waste; WIO; Circular Economy; Environmental Economics
 
@@ -30,8 +29,7 @@ Graduate School of Economics, Waseda University
 **Github:** [https://github.com/BaixinLi](https://github.com/BaixinLi)   
 **Google Scholar:** [https://scholar.google.com/citations?hl=en&user=scd1RncAAAAJ](https://scholar.google.com/citations?hl=en&user=scd1RncAAAAJ)   
 **ResearchGate:** [https://www.researchgate.net/profile/Baixin-Li-2](https://www.researchgate.net/profile/Baixin-Li-2)  
-
-
+**LinkedIn:** [https://www.linkedin.com/in/baixinli](https://www.linkedin.com/in/baixinli)
 
 
 
