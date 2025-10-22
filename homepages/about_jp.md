@@ -1,8 +1,9 @@
 ---
 title: ようこそ！
+permalink: /about_jp/
 ---
 
-# ようこそ！
+# こんにちは！
 
 ![profile](https://i1.rgstatic.net/ii/profile.image/11431281121890216-1677120025800_Q128/Baixin-Li-2.jpg)
 

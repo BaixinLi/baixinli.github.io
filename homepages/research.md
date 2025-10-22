@@ -4,6 +4,13 @@ title: Research
 permalink: /research/
 ---
 
+# Current Projects
+
+> View my research project on [KAKEN](https://nrid.nii.ac.jp/nrid/1000091017673/)  
+
+- 廃棄物分別による循環経済促進効果の産業連関分析と評価手法の拡張  
+- A Non-survey Method to Estimate Japan’s Prefectural Non-competitive Import Type Input-Output Table with Scrap and By-products  
+
 # Publications
 
 

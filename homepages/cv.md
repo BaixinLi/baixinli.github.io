@@ -31,5 +31,12 @@ Check out my full CV below:  [Download CV](/files/CV.pdf)
 - **学生優秀発表賞** 第 17 回日本 LCA 学会研究発表会, 
 Student Outstanding Poster Presentation Award, The 17th Annual Meeting of Japan LCA Society. Presentation: 日本における廃プラスチックリサイクルの環境･経済･社会影響の統合的評価
   
-
-
+## Related websites and External Links: 
+- **E-mail:** libaixin\[at\]akane.waseda.jp   
+- [Github](https://github.com/BaixinLi)   
+- [ResearchGate](https://www.researchgate.net/profile/Baixin-Li-2)  
+- [LinkedIn](https://www.linkedin.com/in/baixinli)
+- [Google Scholar](https://scholar.google.com/citations?user=scd1RncAAAAJ&hl=en)
+- [KAKEN](https://nrid.nii.ac.jp/nrid/1000091017673/)  
+- [Researchmap](https://researchmap.jp/libaixin)  
+- [Waseda University Researchers Database](https://w-rdb.waseda.jp/html/100004501_en.html)  
