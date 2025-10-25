@@ -6,10 +6,17 @@ permalink: /blog/
 
 # Recent Posts
 
+## Tops
+- [Academic Resources (Live Updates)](/posts/resources)
+- [好好生活 (Live Updates)](/posts/好好生活)
+
 ## 2025
+- [数据分析用电脑的选择 2025-10-25](/posts/2025-10-25-数据分析电脑选择)
+- [打印机怎么选 2025-10-25](/posts/2025-10-25-打印机)
+- [洗濯表示記号 2025-10-25](/posts/2025-10-25-洗濯表示記号)
 - [Handbook of Writing Thiesis (English Version 英文版) 2025-04-12](/posts/2025-04-12-Handbook of Writing Thiesis)
 - [论文写作手册（中文版 Chinese version）2025-04-12](/posts/2025-04-12-论文写作手册)
-- [Resources (Live Updates)](/posts/resources)
+
 
 ---
 
