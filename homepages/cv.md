@@ -13,7 +13,7 @@ Check out my full CV below:  [Download CV](/files/CV.pdf)
 * 2020.04 ~    **Ph.D** in Graduate School of Economics, Waseda University, Japan
 * 2020.04 ~ 2022.03  **M.S.** in Graduate School of Economics, Waseda University, Japan
 
-## Work experience
+## Academic Appointments
 * 2025.04 ~ : **Research Assistant**, Faculty of Political Science and Economics, Waseda University, Japan
   
 ## Skills
