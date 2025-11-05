@@ -29,7 +29,7 @@ Check out my full CV below:  [Download CV](/files/CV.pdf)
 
 ## Awards
 - **学生優秀発表賞** 第 17 回日本 LCA 学会研究発表会, 
-Student Outstanding Poster Presentation Award, The 17th Annual Meeting of Japan LCA Society. Presentation: 日本における廃プラスチックリサイクルの環境･経済･社会影響の統合的評価
+Student Outstanding Poster Presentation Award, The 17th Meeting of the Institute of Life Cycle Assessment, Japan. Presentation: 日本における廃プラスチックリサイクルの環境･経済･社会影響の統合的評価
   
 ## Related websites and External Links: 
 - **E-mail:** libaixin\[at\]akane.waseda.jp   

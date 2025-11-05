@@ -29,13 +29,13 @@ TBA
 
 # Presentations
 
-- EcoBalance 2024 / The 15th Biennial International Conference on EcoBalance, Oral, 2024-11-5
-- International Conference on Economic Theory and Policy, Oral, 2024-09-12
-- 2024 Joint ISIE SEM and Asia-Pacific Conference, Oral, 2024-08-27
-- ICES 2024 / The 8th International Conference on Economic Structures, Oral, 2024-03-17
-- EcoBalance 2022 / The 15th Biennial International Conference on EcoBalance, Oral, 2022-11-02
-- ICES 2022 / The 6th International Conference on Economic Structures, Oral, 2022-03-19
-- 第17回日本LCA学会研究発表会, Poster, 2022-03-02  
+- **EcoBalance 2024** / The 15th Biennial International Conference on EcoBalance, Oral, Sendai, Japan, Nov. 2024
+- **International Conference on Economic Theory and Policy**, Oral, Meiji, Japan, Sep. 2024
+- **2024 Joint ISIE SEM and Asia-Pacific Conference**, Oral, Beijing, China, Aug. 2024
+- **ICES 2024** / The 8th International Conference on Economic Structures, Oral, Osaka, Japan, Mar. 2024
+- **EcoBalance 2022** / The 15th Biennial International Conference on EcoBalance, Oral, Fukuoka, Japan, Nov. 2022
+- **ICES 2022** / The 6th International Conference on Economic Structures, Oral, Yokohama, Japan, Mar. 2022
+- **第17回日本LCA学会研究発表会** / The 17th Meeting of the Institute of Life Cycle Assessment, Japan, Poster, Online, Mar. 2022  
 
 
 
