@@ -39,7 +39,7 @@ Mar. 2022. **Student Outstanding Poster Presentation Award**, The 17th Meeting o
 **Languages:** Chinese (native), Japanese (Fluent), English (Professional Working Proficiency)
 
   
-## Related websites and External Links: 
+## Related Websites and External Links: 
 - **E-mail:** libaixin\[at\]akane.waseda.jp   
 - [Github](https://github.com/BaixinLi)   
 - [ResearchGate](https://www.researchgate.net/profile/Baixin-Li-2)  

@@ -29,6 +29,8 @@ This page will be continuously updated with new content. 本文行文普遍采�
   
 - [A Practical Guide to Industrial Ecology by Input-Output Analysis -- Shinichiro Nakamura](https://link.springer.com/book/10.1007/978-3-031-43684-0): 参考书
 
+- [Zotero](https://www.zotero.org/) / [Zotero Documentation](https://www.zotero.org/support/): 开源的文献管理工具，云存储空间可付费扩展容量。
+
 
 ## Analyze & Explore
 - [MATLAB online course](https://matlabacademy.mathworks.com/jp/?page=1&sort=featured&s_tid=nav_learn_mlac): 
@@ -69,6 +71,8 @@ This page will be continuously updated with new content. 本文行文普遍采�
 
 - [Markdown](https://daringfireball.net/projects/markdown/) / [Markdown Guide](https://www.markdownguide.org/) / [Github-syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) / [Obsidian-syntax](https://help.obsidian.md/syntax):  
   简单，好用，大家都在用。非常适合记笔记但是常用的笔记软件（OneNote，苹果备忘录，Evernote）都**不支持**该语法。
+
+- [Obsidian](https://obsidian.md/): 支持 Markdown 语法的笔记软件。免费且无需注册使用，文档全部存储在“本地”。可付费追加附加功能，比如云同步，版本历史记录，多人协作。由于文件全都存在“本地”，所以可以把文件存在云盘比如 Dropbox/iCloud 即可实现云同步。需要注意由于 Dropbox/iCloud 的同步速度限制，同时在多个设备编辑同个文件的时候可能出现错误。
 
 - [R Markdown](https://rmarkdown.rstudio.com/): 
 
@@ -124,4 +128,6 @@ This page will be continuously updated with new content. 本文行文普遍采�
 
 ---
 
-> Last updated: 2025/09/16
+> Last updated: 2025/12/03   
+> Last updated: 2025/09/16  
+> Last updated: 2025/06/08
