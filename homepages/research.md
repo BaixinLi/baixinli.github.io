@@ -30,7 +30,8 @@ TBA
 
 
 # Presentations
-
+- **3RINCs 2026** / 3R International Scientific Conference on Material Cycles and Waste Management, Poster, Bangkok, Thailand, Mar. 2026
+- **第21回日本LCA学会研究発表会** / The 21th Meeting of the Institute of Life Cycle Assessment, Japan, Poster & Oral, Tokyo, Mar. 2026  
 - **EcoBalance 2024** / The 15th Biennial International Conference on EcoBalance, Oral, Sendai, Japan, Nov. 2024
 - **International Conference on Economic Theory and Policy**, Oral, Meiji, Japan, Sep. 2024
 - **2024 Joint ISIE SEM and Asia-Pacific Conference**, Oral, Beijing, China, Aug. 2024
